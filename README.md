@@ -12,7 +12,8 @@
  5. When the application is launched the first things it ask to you is to provide the complete path of the folder where is located the script "assignment.R"      and the dataset "news.csv". IMPORTANT: To reduce the time in execution use the dataset "news_short.csv" provided also in this repo. 
  6. After selecting the right path for the folder and the dataset the application gives you five options: 
   - a) Running an option that would answer your questions regarding the text in "content" column in the dataset. 
-  - b) Running an option to summarize a new that you can select. The summary contains all the names, locations, dates and organizations mentioned in the new.
+  - b) Running an option to summarize a new that you can select. The way to run it is type "summary". 
+    The summary contains all the names, locations, dates and organizations mentioned in the new.
   - c) Say hello to the application that will answer you in the same way. 
   - d) Say goodbye to the application that will say goodbye to you also. 
   - e) Quit from the application just typing in the prompt the word "quit". 
