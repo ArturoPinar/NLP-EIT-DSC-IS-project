@@ -18,5 +18,6 @@
   - d) Say goodbye to the application that will say goodbye to you also. 
   - e) Quit from the application just typing in the prompt the word "quit". 
 
-  
+## IMPORTANT: 
+The dataset is provided in a small version in this repo ("news_short.csv") since the original dataset is bigger than the size supported for uploading files in Github. However, the original dataset can be downloaded from the following link: https://www.kaggle.com/snapcrack/all-the-news and there download any file provided there.
   
